@@ -94,7 +94,8 @@ body {
   letter-spacing: 0.02em;
 }
 
-.address__link:hover {
+.address__link:hover,
+.address__link:focus {
   color: var(--ocean);
 }
 
